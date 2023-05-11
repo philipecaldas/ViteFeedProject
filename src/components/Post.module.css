@@ -98,15 +98,15 @@
   transition: background-color 0.2s;
 }
 
-.commentForm footer{
+/* .commentForm footer{
   visibility: hidden;
   max-height: 0; 
-}
-
+} */
+/* 
 .commentForm:focus-within footer{
   visibility: visible;
   max-height: none;
-}
+} */
 
 .commentList {
   margin-top: 2rem;
